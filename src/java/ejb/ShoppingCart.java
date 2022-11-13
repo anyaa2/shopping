@@ -1,7 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Create database and database table
+Services -> create database -> cartdb ->select cartdb - > right click -> create table ->
+cart -> UserName varchar 35 ItemName varchar 50
+ * T
+ * a
  */
 package ejb;
 
